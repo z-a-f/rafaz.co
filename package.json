@@ -1,7 +1,7 @@
 {
-  "name": "node-js-sample",
-  "version": "0.1.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "rafaz.co",
+  "version": "0.01a",
+  "description": "Source code for RAFAZ.CO",
   "main": "start.js",
   "scripts": {
     "start": "node start.js"
@@ -14,16 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/zafartahirov/rafaz.co.git"
   },
   "keywords": [
     "node",
     "heroku",
-    "express"
+    "express",
+    "rafaz.co"
   ],
-  "author": "Mark Pundsack",
+  "author": "Zafar Takhirov",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+  	"Zafar Takhirov <z.tahirov@gmail.com> (http://rafaz.co)"
   ],
   "license": "MIT"
 }

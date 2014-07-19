@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-sample",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"]
+  "name": "RAFAZ.CO on node.js",
+  "description": "Personal website",
+  "repository": "https://github.com/zafartahirov/rafaz.co.git",
+  "logo": "",
+  "keywords": ["node", "express", "static", "rafaz.co"]
 }
